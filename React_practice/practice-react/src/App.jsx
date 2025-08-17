@@ -10,8 +10,7 @@ const Card = ({title }) => {
     )
 }
 
-const App = () => {
-  return (
+const App = () => { return (   
     <div className = "card-container"> 
 
     <Card title = "Star Wars" rating = {5} isCool = {true} actors = {[{name: 'Actors'}]} />
@@ -20,7 +19,7 @@ const App = () => {
   </div>
   )
 
-}
+} 
 
 
 
