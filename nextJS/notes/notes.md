@@ -1,3 +1,15 @@
+# installation process 
+pnpm i
+
+
+
+pnpm dev 
+
+
+
+
+
+
 /app: Contains all the routes, components, and logic for your application, this is where you'll be mostly working from.
 
 /app/lib: Contains functions used in your application, such as reusable utility functions and data fetching functions.
